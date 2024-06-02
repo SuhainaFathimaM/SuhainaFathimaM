@@ -62,6 +62,6 @@
 
 
 
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/suhainafathimam/suhainafathimam/master/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
-</p>
+
