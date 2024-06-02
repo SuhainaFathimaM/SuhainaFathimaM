@@ -67,12 +67,6 @@
 3. 💪 Opened PR [#2](https://github.com/suhainafathimam/some-repo/pull/2) in [suhainafathimam/some-repo](https://github.com/suhainafathimam/some-repo)
 <!--END_SECTION:activity-->
 
-<h3 align="left">Latest Blog Posts:</h3>
-<!-- BLOG-POST-LIST:START -->
-- [How to Create a Responsive Navbar](https://dev.to/suhainafathimam/how-to-create-a-responsive-navbar-1e0b)
-- [JavaScript Best Practices](https://dev.to/suhainafathimam/javascript-best-practices-4d3b)
-- [Understanding Asynchronous Programming in Python](https://dev.to/suhainafathimam/understanding-asynchronous-programming-in-python-34ba)
-<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suhainafathimam/suhainafathimam/master/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
