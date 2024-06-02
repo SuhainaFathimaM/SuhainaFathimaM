@@ -60,12 +60,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhainafathimam&theme=radical" alt="suhainafathimam" /></p>
 
-<h3 align="left">Recent Activity:</h3>
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/suhainafathimam/some-repo/issues/1) in [suhainafathimam/some-repo](https://github.com/suhainafathimam/some-repo)
-2. 🎉 Merged PR [#2](https://github.com/suhainafathimam/some-repo/pull/2) in [suhainafathimam/some-repo](https://github.com/suhainafathimam/some-repo)
-3. 💪 Opened PR [#2](https://github.com/suhainafathimam/some-repo/pull/2) in [suhainafathimam/some-repo](https://github.com/suhainafathimam/some-repo)
-<!--END_SECTION:activity-->
 
 
 <p align="center">
